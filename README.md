@@ -22,12 +22,6 @@ git clone https://github.com/Nnouel/NSSP_Projects
 cd NSSP_Projects
 ```
 
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 2. Dataset
